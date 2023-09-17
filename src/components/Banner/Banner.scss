@@ -1,0 +1,54 @@
+@import "../.././scss/mixins";
+@import "../.././scss/variables";
+
+
+
+.desktop {
+    padding-top: 170px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+
+    h1 {
+        margin: auto;
+        font-size: 5vw;
+        text-transform: uppercase;
+        line-height: 1.3;
+        letter-spacing: 3px;
+        font-weight: 300;
+        display: flex;
+        justify-content: center;
+    }
+
+    img {
+        margin: auto;
+        width: 50%;
+        margin-bottom: 100px;
+
+        @include mobile {
+            margin-bottom: 70px;
+            width: 60%;
+        }
+
+    }
+
+    h2 {
+        margin: 0;
+        
+        @include fonts-gistesy;
+        color: $color-gold;
+        font-size: 15vw;
+    }
+
+    @include tablette {
+
+        width: 100%;
+    }
+
+    @include mobile {
+
+        padding-top: 190px;
+
+    }
+}
