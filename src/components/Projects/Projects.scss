@@ -74,6 +74,7 @@ h3 {
 
         @include mobile {
             width: 95%;
+            text-align: start;
             margin: auto;
         }
     }
