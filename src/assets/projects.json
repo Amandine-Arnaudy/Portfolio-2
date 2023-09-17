@@ -26,7 +26,7 @@
         "id": "3",
         "title": "Sophie Bruel Portfolio",
         "cover": "https://raw.githubusercontent.com/Amandine-Arnaudy/Portfolio-architecte-sophie-bluel/master/FrontEnd/assets/images/sophie-bluel.png",
-        "descriptions": "Sophie Bluel - Portfolio représente un projet de formation que j'ai réalisé sur lors de ma formation OpenClassrooms pour acquérir des compétences en JavaScript. En me basant sur une maquette Figma, j'ai conçu une page de connexion et j'ai dynamiquement affiché les travaux présents dans le portfolio en utilisant une API. J'ai également intégré une fenêtre modale permettant ainsi à l'administrateur du site d'ajouter ou de supprimer des travaux.",
+        "descriptions": "Sophie Bluel - Portfolio représente un projet de formation que j'ai réalisé lors de ma formation OpenClassrooms pour acquérir des compétences en JavaScript. En me basant sur une maquette Figma, j'ai conçu une page de connexion et j'ai dynamiquement affiché les travaux présents dans le portfolio en utilisant une API. J'ai également intégré une fenêtre modale permettant ainsi à l'administrateur du site d'ajouter ou de supprimer des travaux.",
         "githubUrl": "https://github.com/Amandine-Arnaudy/Sophie-Bruel-Portfolio",
         "compétences": [
             "Html",

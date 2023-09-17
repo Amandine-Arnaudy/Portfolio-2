@@ -42,6 +42,7 @@ const Timeline = () => {
                     <h5 className="vertical-timeline-element-subtitle">OpenClassrooms</h5>
                     <p>
                         - Transformer une maquette en site web avec HTML & CSS
+                        <br></br>
                         - Réaliser une veille technologique
                     </p>
                 </VerticalTimelineElement>
