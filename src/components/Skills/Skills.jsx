@@ -1,18 +1,18 @@
 import React from 'react'
 import './Skills.scss';
 import { useInView } from 'react-intersection-observer';
-import htmlLogo from '../../assets/Html_logo.png'
-import cssLogo from '../../assets/Css_logo.png'
-import jsLogo from '../../assets/JavaScript_Logo.png'
-import reactLogo from '../../assets/React_logo.png'
-import reduxLogo from '../../assets/Redux_logo.png'
-import githubLogo from '../../assets/Github.png'
-import wordpressLogo from '../../assets/WordPress_logo.png'
-import figmaLogo from '../../assets/Figma_logo.png'
+import htmlLogo from '../../assets/Html_logo.webp'
+import cssLogo from '../../assets/Css_logo.webp'
+import jsLogo from '../../assets/JavaScript_Logo.webp'
+import reactLogo from '../../assets/React_logo.webp'
+import reduxLogo from '../../assets/Redux_logo.webp'
+import githubLogo from '../../assets/Github.webp'
+import wordpressLogo from '../../assets/WordPress_logo.webp'
+import figmaLogo from '../../assets/Figma_logo.webp'
 import adobexdLogo from '../../assets/Adobe-XD_logo.webp'
 import canvaLogo from '../../assets/Canva_logo.webp'
-import procreateLogo from '../../assets/Procreate_logo.png'
-import adobeLogo from '../../assets/Adobe_logo-2017.png'
+import procreateLogo from '../../assets/Procreate_logo.webp'
+import adobeLogo from '../../assets/Adobe_logo-2017.webp'
 
 
 

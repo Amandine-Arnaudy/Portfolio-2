@@ -4,8 +4,9 @@
 
 form {
     display: flex;
-    padding-top: 160px;
-    margin-bottom: 90px;
+    flex: 1;
+    padding-top: 130px;
+    margin-bottom: 130px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -51,7 +52,7 @@ form {
         }
 
         &:hover {
-            font-size: 17px;
+            color: $color-black;
         }
 
         @include mobile {
@@ -74,7 +75,7 @@ form {
         }
 
         &:hover {
-            font-size: 17px;
+            color: $color-black;
         }
 
         @include mobile {

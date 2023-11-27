@@ -45,5 +45,18 @@
             "Sass",
             "React"
         ]
+    },
+    {
+        "id": "5",
+        "title": "Argent Bank",
+        "cover": "https://user.oc-static.com/upload/2023/04/17/1681723159368_Capture%20d%E2%80%99e%CC%81cran%202023-04-17%20a%CC%80%2011.19.09.png",
+        "descriptions": "Argent Bank est un projet de formation que j'ai réalisé lors de ma formation sur OpenClassrooms, après avoir acquis une première expérience pratique avec React. J'ai utilisé Redux pour l'authentification des utilisateurs. Les fonctionnalités comprennent une authentification sécurisée, la gestion de sessions utilisateur, l'accès personnalisé au profil après connexion et la possibilité de modifier le pseudo.",
+        "githubUrl": "https://github.com/Amandine-Arnaudy/ArgentBank",
+        "compétences": [
+            "Html",
+            "Css",
+            "React",
+            "Redux"
+        ]
     }
 ]

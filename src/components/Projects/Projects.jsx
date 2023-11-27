@@ -10,7 +10,7 @@ function Projects() {
 
   useEffect(() => {
     
-    const animationSpeed = 800; 
+    const animationSpeed = 200; 
 
     const interval = setInterval(() => {
       if (projectsJson.length > visibleProjects.length) {

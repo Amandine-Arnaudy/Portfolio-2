@@ -4,7 +4,7 @@
 
 
 .desktop {
-    padding-top: 170px;
+    padding-top: 90px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -42,13 +42,11 @@
     }
 
     @include tablette {
-
         width: 100%;
     }
 
     @include mobile {
-
-        padding-top: 190px;
+        padding-top: 70px;
 
     }
 }

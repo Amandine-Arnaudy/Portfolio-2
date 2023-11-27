@@ -1,6 +1,6 @@
 import React from 'react'
 import '././Banner.scss'
-import imgMac from '../../assets/Desktop.png'
+import imgMac from '../../assets/Desktop.webp'
 
 
 function Banner() {

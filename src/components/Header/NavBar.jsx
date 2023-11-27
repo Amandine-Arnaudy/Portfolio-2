@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 import './NavBar.scss'
-import headerImg from '../../assets/Logo.png'
+import headerImg from '../../assets/Logo.webp'
 
 function Navbar() {
   return (

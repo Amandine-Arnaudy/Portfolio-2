@@ -4,7 +4,9 @@
 body {
     margin: 0 auto;
     @include fonts;
+    flex-direction: column;
 }
+
 
 .navbar {
     width: 100%;
@@ -14,7 +16,6 @@ body {
     clear: both;
     display: block;
     gap: 30px;
-    position: fixed;
     display: flex;
     background-color: $color-white;
     z-index: 9999;

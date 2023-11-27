@@ -1,7 +1,7 @@
 import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 import Modal from "react-modal";
-import Or from '../../assets/Or.png'
+import Or from '../../assets/Or.webp'
 import './Contact.scss';
 
 Modal.setAppElement("#root");

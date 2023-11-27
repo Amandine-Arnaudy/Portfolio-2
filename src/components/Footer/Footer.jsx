@@ -1,9 +1,9 @@
 import React from 'react'
 import './Footer.scss'
-import footerImg from '../../assets/Logo_footer.png'
-import email from '../../assets/Email.png'
-import linkedin from '../../assets/Linkedin.png'
-import github from '../../assets/Github.png'
+import footerImg from '../../assets/Logo_footer.webp'
+import email from '../../assets/Email.webp'
+import linkedin from '../../assets/Linkedin.webp'
+import github from '../../assets/Github.webp'
 
 function Footer() {
     return (

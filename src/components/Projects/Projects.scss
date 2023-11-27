@@ -5,13 +5,13 @@ h3 {
     @include fonts-gistesy;
     font-size: 6vw;
     display: flex;
-    padding-top: 150px;
+    padding-top: 100px;
     justify-content: center;
     margin-bottom: 50px;
     margin: 0;
 
-
     @include mobile {
+        padding-top: 70px;
         font-size: 50px;
         margin-bottom: 20px;
     }
